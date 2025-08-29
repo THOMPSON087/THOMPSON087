@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm THOMAS ALEBACHEW</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Azure**
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **Html, Css, JS, Python, Django**
+- 💬 Ask me about **Html, Css, JS, Python, Django, Microsoft Suite**
 
 - 📫 How to reach me **thomasalebachew438@gmail.com / netrox087@gmail.com**
 
